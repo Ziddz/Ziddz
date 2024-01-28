@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Visualizations, Data Analytics**
 
-- 💬 Ask me about **R, mySQL, Tableau, BigQuery, Python**
+- 💬 Ask me about **R, Python, SQL, mySQL, SQL Server, Tableau, BigQuery, Power BI**
 
 - 📫 How to reach me **sidharthanandan@gmail.com**
 
